@@ -1,0 +1,1439 @@
+{
+  "fps": 30,
+  "durationInFrames": 3600,
+  "alignmentSource": "ElevenLabs character alignment, natural performance",
+  "blocks": [
+    {
+      "id": "01-problema",
+      "start": 0,
+      "end": 450,
+      "audioStart": 9,
+      "audioDuration": 11.353729,
+      "text": "Saiu o edital. E, de repente, a escola inteira tem um prazo. Cada semana conta. Conectar conteúdos, materiais e atividades à rotina da turma é o desafio do seu preparatório.",
+      "words": [
+        {
+          "text": "Saiu",
+          "start": 0.3,
+          "end": 0.7
+        },
+        {
+          "text": "o",
+          "start": 0.74,
+          "end": 0.78
+        },
+        {
+          "text": "edital.",
+          "start": 0.86,
+          "end": 1.5
+        },
+        {
+          "text": "E,",
+          "start": 1.66,
+          "end": 1.74
+        },
+        {
+          "text": "de",
+          "start": 1.78,
+          "end": 1.82
+        },
+        {
+          "text": "repente,",
+          "start": 1.94,
+          "end": 2.46
+        },
+        {
+          "text": "a",
+          "start": 2.5,
+          "end": 2.54
+        },
+        {
+          "text": "escola",
+          "start": 2.66,
+          "end": 3.02
+        },
+        {
+          "text": "inteira",
+          "start": 3.18,
+          "end": 3.5
+        },
+        {
+          "text": "tem",
+          "start": 3.58,
+          "end": 3.66
+        },
+        {
+          "text": "um",
+          "start": 3.7,
+          "end": 3.74
+        },
+        {
+          "text": "prazo.",
+          "start": 3.82,
+          "end": 4.22
+        },
+        {
+          "text": "Cada",
+          "start": 4.54,
+          "end": 4.78
+        },
+        {
+          "text": "semana",
+          "start": 4.86,
+          "end": 5.18
+        },
+        {
+          "text": "conta.",
+          "start": 5.26,
+          "end": 5.66
+        },
+        {
+          "text": "Conectar",
+          "start": 5.98,
+          "end": 6.38
+        },
+        {
+          "text": "conteúdos,",
+          "start": 6.46,
+          "end": 7.18
+        },
+        {
+          "text": "materiais",
+          "start": 7.34,
+          "end": 7.82
+        },
+        {
+          "text": "e",
+          "start": 7.847,
+          "end": 7.873
+        },
+        {
+          "text": "atividades",
+          "start": 7.9,
+          "end": 8.54
+        },
+        {
+          "text": "à",
+          "start": 8.58,
+          "end": 8.62
+        },
+        {
+          "text": "rotina",
+          "start": 8.74,
+          "end": 9.02
+        },
+        {
+          "text": "da",
+          "start": 9.06,
+          "end": 9.1
+        },
+        {
+          "text": "turma",
+          "start": 9.26,
+          "end": 9.5
+        },
+        {
+          "text": "é",
+          "start": 9.74,
+          "end": 9.82
+        },
+        {
+          "text": "o",
+          "start": 9.86,
+          "end": 9.9
+        },
+        {
+          "text": "desafio",
+          "start": 10.02,
+          "end": 10.54
+        },
+        {
+          "text": "do",
+          "start": 10.58,
+          "end": 10.62
+        },
+        {
+          "text": "seu",
+          "start": 10.7,
+          "end": 10.82
+        },
+        {
+          "text": "preparatório.",
+          "start": 10.86,
+          "end": 11.74
+        }
+      ]
+    },
+    {
+      "id": "02-organizacao",
+      "start": 450,
+      "end": 900,
+      "audioStart": 459,
+      "audioDuration": 11.198146,
+      "text": "A Caderna ajuda a organizar esse caminho. Do programa da prova aos tópicos e a um plano de estudo. Uma sequência para organizar a leitura, a prática e a revisão, ao longo das semanas.",
+      "words": [
+        {
+          "text": "A",
+          "start": 15.3,
+          "end": 15.38
+        },
+        {
+          "text": "Caderna",
+          "start": 15.5,
+          "end": 16.02
+        },
+        {
+          "text": "ajuda",
+          "start": 16.1,
+          "end": 16.42
+        },
+        {
+          "text": "a",
+          "start": 16.46,
+          "end": 16.5
+        },
+        {
+          "text": "organizar",
+          "start": 16.62,
+          "end": 16.98
+        },
+        {
+          "text": "esse",
+          "start": 17.06,
+          "end": 17.14
+        },
+        {
+          "text": "caminho.",
+          "start": 17.22,
+          "end": 18.02
+        },
+        {
+          "text": "Do",
+          "start": 18.06,
+          "end": 18.1
+        },
+        {
+          "text": "programa",
+          "start": 18.26,
+          "end": 18.46
+        },
+        {
+          "text": "da",
+          "start": 18.5,
+          "end": 18.58
+        },
+        {
+          "text": "prova",
+          "start": 18.66,
+          "end": 19.06
+        },
+        {
+          "text": "aos",
+          "start": 19.18,
+          "end": 19.3
+        },
+        {
+          "text": "tópicos",
+          "start": 19.38,
+          "end": 19.94
+        },
+        {
+          "text": "e",
+          "start": 20.02,
+          "end": 20.06
+        },
+        {
+          "text": "a",
+          "start": 20.1,
+          "end": 20.14
+        },
+        {
+          "text": "um",
+          "start": 20.18,
+          "end": 20.26
+        },
+        {
+          "text": "plano",
+          "start": 20.34,
+          "end": 20.58
+        },
+        {
+          "text": "de",
+          "start": 20.66,
+          "end": 20.7
+        },
+        {
+          "text": "estudo.",
+          "start": 20.74,
+          "end": 21.46
+        },
+        {
+          "text": "Uma",
+          "start": 21.513,
+          "end": 21.62
+        },
+        {
+          "text": "sequência",
+          "start": 21.78,
+          "end": 22.18
+        },
+        {
+          "text": "para",
+          "start": 22.26,
+          "end": 22.34
+        },
+        {
+          "text": "organizar",
+          "start": 22.46,
+          "end": 22.82
+        },
+        {
+          "text": "a",
+          "start": 22.86,
+          "end": 22.9
+        },
+        {
+          "text": "leitura,",
+          "start": 22.94,
+          "end": 23.62
+        },
+        {
+          "text": "a",
+          "start": 23.673,
+          "end": 23.727
+        },
+        {
+          "text": "prática",
+          "start": 23.78,
+          "end": 24.34
+        },
+        {
+          "text": "e",
+          "start": 24.38,
+          "end": 24.42
+        },
+        {
+          "text": "a",
+          "start": 24.447,
+          "end": 24.473
+        },
+        {
+          "text": "revisão,",
+          "start": 24.5,
+          "end": 25.22
+        },
+        {
+          "text": "ao",
+          "start": 25.26,
+          "end": 25.3
+        },
+        {
+          "text": "longo",
+          "start": 25.38,
+          "end": 25.62
+        },
+        {
+          "text": "das",
+          "start": 25.7,
+          "end": 25.78
+        },
+        {
+          "text": "semanas.",
+          "start": 25.86,
+          "end": 26.58
+        }
+      ]
+    },
+    {
+      "id": "03-material",
+      "start": 900,
+      "end": 1500,
+      "audioStart": 909,
+      "audioDuration": 13.743333,
+      "text": "Dentro desse plano, cada tópico tem seu lugar. As apostilas reúnem o material de leitura, com seções e referências para consulta. Assim, o aluno pode aprofundar um assunto e depois retomar o percurso, sem perder de vista o que está estudando.",
+      "words": [
+        {
+          "text": "Dentro",
+          "start": 30.32,
+          "end": 30.52
+        },
+        {
+          "text": "desse",
+          "start": 30.6,
+          "end": 30.76
+        },
+        {
+          "text": "plano,",
+          "start": 30.84,
+          "end": 31.32
+        },
+        {
+          "text": "cada",
+          "start": 31.36,
+          "end": 31.64
+        },
+        {
+          "text": "tópico",
+          "start": 31.72,
+          "end": 32.04
+        },
+        {
+          "text": "tem",
+          "start": 32.12,
+          "end": 32.28
+        },
+        {
+          "text": "seu",
+          "start": 32.36,
+          "end": 32.467
+        },
+        {
+          "text": "lugar.",
+          "start": 32.493,
+          "end": 33.16
+        },
+        {
+          "text": "As",
+          "start": 33.2,
+          "end": 33.24
+        },
+        {
+          "text": "apostilas",
+          "start": 33.32,
+          "end": 33.8
+        },
+        {
+          "text": "reúnem",
+          "start": 33.88,
+          "end": 34.12
+        },
+        {
+          "text": "o",
+          "start": 34.16,
+          "end": 34.2
+        },
+        {
+          "text": "material",
+          "start": 34.4,
+          "end": 34.6
+        },
+        {
+          "text": "de",
+          "start": 34.64,
+          "end": 34.68
+        },
+        {
+          "text": "leitura,",
+          "start": 34.72,
+          "end": 35.24
+        },
+        {
+          "text": "com",
+          "start": 35.32,
+          "end": 35.4
+        },
+        {
+          "text": "seções",
+          "start": 35.52,
+          "end": 35.96
+        },
+        {
+          "text": "e",
+          "start": 35.987,
+          "end": 36.013
+        },
+        {
+          "text": "referências",
+          "start": 36.04,
+          "end": 36.6
+        },
+        {
+          "text": "para",
+          "start": 36.68,
+          "end": 36.76
+        },
+        {
+          "text": "consulta.",
+          "start": 36.84,
+          "end": 37.64
+        },
+        {
+          "text": "Assim,",
+          "start": 37.72,
+          "end": 38.2
+        },
+        {
+          "text": "o",
+          "start": 38.28,
+          "end": 38.32
+        },
+        {
+          "text": "aluno",
+          "start": 38.36,
+          "end": 38.6
+        },
+        {
+          "text": "pode",
+          "start": 38.64,
+          "end": 38.84
+        },
+        {
+          "text": "aprofundar",
+          "start": 38.96,
+          "end": 39.4
+        },
+        {
+          "text": "um",
+          "start": 39.48,
+          "end": 39.56
+        },
+        {
+          "text": "assunto",
+          "start": 39.68,
+          "end": 40.04
+        },
+        {
+          "text": "e",
+          "start": 40.12,
+          "end": 40.2
+        },
+        {
+          "text": "depois",
+          "start": 40.28,
+          "end": 40.52
+        },
+        {
+          "text": "retomar",
+          "start": 40.64,
+          "end": 41.08
+        },
+        {
+          "text": "o",
+          "start": 41.12,
+          "end": 41.16
+        },
+        {
+          "text": "percurso,",
+          "start": 41.28,
+          "end": 41.88
+        },
+        {
+          "text": "sem",
+          "start": 42.0,
+          "end": 42.12
+        },
+        {
+          "text": "perder",
+          "start": 42.2,
+          "end": 42.44
+        },
+        {
+          "text": "de",
+          "start": 42.48,
+          "end": 42.52
+        },
+        {
+          "text": "vista",
+          "start": 42.6,
+          "end": 42.84
+        },
+        {
+          "text": "o",
+          "start": 42.88,
+          "end": 42.92
+        },
+        {
+          "text": "que",
+          "start": 42.96,
+          "end": 43.0
+        },
+        {
+          "text": "está",
+          "start": 43.08,
+          "end": 43.2
+        },
+        {
+          "text": "estudando.",
+          "start": 43.24,
+          "end": 44.04
+        }
+      ]
+    },
+    {
+      "id": "04-estudo",
+      "start": 1500,
+      "end": 2100,
+      "audioStart": 1509,
+      "audioDuration": 12.679521,
+      "text": "E a leitura é só uma parte da experiência. Na aula por voz, o aluno pode conversar sobre o conteúdo e fazer perguntas. O quadro branco acompanha a explicação, aproximando a conversa daquilo que precisa ser compreendido.",
+      "words": [
+        {
+          "text": "E",
+          "start": 50.313,
+          "end": 50.339
+        },
+        {
+          "text": "a",
+          "start": 50.366,
+          "end": 50.406
+        },
+        {
+          "text": "leitura",
+          "start": 50.447,
+          "end": 50.926
+        },
+        {
+          "text": "é",
+          "start": 51.006,
+          "end": 51.166
+        },
+        {
+          "text": "só",
+          "start": 51.246,
+          "end": 51.326
+        },
+        {
+          "text": "uma",
+          "start": 51.406,
+          "end": 51.646
+        },
+        {
+          "text": "parte",
+          "start": 51.766,
+          "end": 51.966
+        },
+        {
+          "text": "da",
+          "start": 52.006,
+          "end": 52.046
+        },
+        {
+          "text": "experiência.",
+          "start": 52.127,
+          "end": 53.006
+        },
+        {
+          "text": "Na",
+          "start": 53.046,
+          "end": 53.087
+        },
+        {
+          "text": "aula",
+          "start": 53.166,
+          "end": 53.326
+        },
+        {
+          "text": "por",
+          "start": 53.406,
+          "end": 53.486
+        },
+        {
+          "text": "voz,",
+          "start": 53.566,
+          "end": 54.046
+        },
+        {
+          "text": "o",
+          "start": 54.087,
+          "end": 54.127
+        },
+        {
+          "text": "aluno",
+          "start": 54.166,
+          "end": 54.447
+        },
+        {
+          "text": "pode",
+          "start": 54.526,
+          "end": 54.686
+        },
+        {
+          "text": "conversar",
+          "start": 54.766,
+          "end": 55.326
+        },
+        {
+          "text": "sobre",
+          "start": 55.406,
+          "end": 55.566
+        },
+        {
+          "text": "o",
+          "start": 55.593,
+          "end": 55.619
+        },
+        {
+          "text": "conteúdo",
+          "start": 55.646,
+          "end": 56.127
+        },
+        {
+          "text": "e",
+          "start": 56.206,
+          "end": 56.286
+        },
+        {
+          "text": "fazer",
+          "start": 56.326,
+          "end": 56.526
+        },
+        {
+          "text": "perguntas.",
+          "start": 56.606,
+          "end": 57.486
+        },
+        {
+          "text": "O",
+          "start": 57.513,
+          "end": 57.539
+        },
+        {
+          "text": "quadro",
+          "start": 57.566,
+          "end": 57.886
+        },
+        {
+          "text": "branco",
+          "start": 57.926,
+          "end": 58.206
+        },
+        {
+          "text": "acompanha",
+          "start": 58.286,
+          "end": 58.713
+        },
+        {
+          "text": "a",
+          "start": 58.739,
+          "end": 58.766
+        },
+        {
+          "text": "explicação,",
+          "start": 58.846,
+          "end": 59.566
+        },
+        {
+          "text": "aproximando",
+          "start": 59.646,
+          "end": 60.206
+        },
+        {
+          "text": "a",
+          "start": 60.246,
+          "end": 60.286
+        },
+        {
+          "text": "conversa",
+          "start": 60.366,
+          "end": 60.766
+        },
+        {
+          "text": "daquilo",
+          "start": 60.886,
+          "end": 61.166
+        },
+        {
+          "text": "que",
+          "start": 61.246,
+          "end": 61.326
+        },
+        {
+          "text": "precisa",
+          "start": 61.406,
+          "end": 61.727
+        },
+        {
+          "text": "ser",
+          "start": 61.806,
+          "end": 61.886
+        },
+        {
+          "text": "compreendido.",
+          "start": 61.966,
+          "end": 62.926
+        }
+      ]
+    },
+    {
+      "id": "05-pratica",
+      "start": 2100,
+      "end": 2700,
+      "audioStart": 2109,
+      "audioDuration": 13.426146,
+      "text": "Depois, é hora de colocar o conhecimento em prática. Os quizzes retomam os assuntos estudados. Na preparação para provas, os simulados mostram o resultado por matéria. Esse retorno pode orientar a revisão e a volta ao plano.",
+      "words": [
+        {
+          "text": "Depois,",
+          "start": 70.3,
+          "end": 71.02
+        },
+        {
+          "text": "é",
+          "start": 71.1,
+          "end": 71.18
+        },
+        {
+          "text": "hora",
+          "start": 71.26,
+          "end": 71.34
+        },
+        {
+          "text": "de",
+          "start": 71.42,
+          "end": 71.5
+        },
+        {
+          "text": "colocar",
+          "start": 71.58,
+          "end": 71.9
+        },
+        {
+          "text": "o",
+          "start": 71.94,
+          "end": 71.98
+        },
+        {
+          "text": "conhecimento",
+          "start": 72.02,
+          "end": 72.54
+        },
+        {
+          "text": "em",
+          "start": 72.62,
+          "end": 72.7
+        },
+        {
+          "text": "prática.",
+          "start": 72.78,
+          "end": 73.58
+        },
+        {
+          "text": "Os",
+          "start": 73.66,
+          "end": 73.74
+        },
+        {
+          "text": "quizzes",
+          "start": 73.82,
+          "end": 74.22
+        },
+        {
+          "text": "retomam",
+          "start": 74.38,
+          "end": 74.7
+        },
+        {
+          "text": "os",
+          "start": 74.78,
+          "end": 74.86
+        },
+        {
+          "text": "assuntos",
+          "start": 74.98,
+          "end": 75.26
+        },
+        {
+          "text": "estudados.",
+          "start": 75.34,
+          "end": 76.3
+        },
+        {
+          "text": "Na",
+          "start": 76.34,
+          "end": 76.38
+        },
+        {
+          "text": "preparação",
+          "start": 76.46,
+          "end": 76.94
+        },
+        {
+          "text": "para",
+          "start": 77.06,
+          "end": 77.18
+        },
+        {
+          "text": "provas,",
+          "start": 77.26,
+          "end": 77.74
+        },
+        {
+          "text": "os",
+          "start": 77.78,
+          "end": 77.82
+        },
+        {
+          "text": "simulados",
+          "start": 77.9,
+          "end": 78.46
+        },
+        {
+          "text": "mostram",
+          "start": 78.54,
+          "end": 78.86
+        },
+        {
+          "text": "o",
+          "start": 78.9,
+          "end": 78.94
+        },
+        {
+          "text": "resultado",
+          "start": 79.22,
+          "end": 79.5
+        },
+        {
+          "text": "por",
+          "start": 79.54,
+          "end": 79.58
+        },
+        {
+          "text": "matéria.",
+          "start": 79.66,
+          "end": 80.433
+        },
+        {
+          "text": "Esse",
+          "start": 80.487,
+          "end": 80.62
+        },
+        {
+          "text": "retorno",
+          "start": 80.9,
+          "end": 81.18
+        },
+        {
+          "text": "pode",
+          "start": 81.26,
+          "end": 81.42
+        },
+        {
+          "text": "orientar",
+          "start": 81.58,
+          "end": 81.9
+        },
+        {
+          "text": "a",
+          "start": 81.927,
+          "end": 81.953
+        },
+        {
+          "text": "revisão",
+          "start": 81.98,
+          "end": 82.54
+        },
+        {
+          "text": "e",
+          "start": 82.62,
+          "end": 82.66
+        },
+        {
+          "text": "a",
+          "start": 82.7,
+          "end": 82.78
+        },
+        {
+          "text": "volta",
+          "start": 82.86,
+          "end": 83.1
+        },
+        {
+          "text": "ao",
+          "start": 83.18,
+          "end": 83.26
+        },
+        {
+          "text": "plano.",
+          "start": 83.34,
+          "end": 83.82
+        }
+      ]
+    },
+    {
+      "id": "06-instituicao",
+      "start": 2700,
+      "end": 3240,
+      "audioStart": 2709,
+      "audioDuration": 13.271854,
+      "text": "No seu preparatório, essa experiência pode levar sua própria marca. Com o painel configurado, professores podem acompanhar o progresso dos alunos nas turmas. Uma conexão entre o conteúdo da escola e a rotina de quem se prepara para a prova.",
+      "words": [
+        {
+          "text": "No",
+          "start": 90.3,
+          "end": 90.38
+        },
+        {
+          "text": "seu",
+          "start": 90.46,
+          "end": 90.58
+        },
+        {
+          "text": "preparatório,",
+          "start": 90.62,
+          "end": 91.5
+        },
+        {
+          "text": "essa",
+          "start": 91.58,
+          "end": 91.66
+        },
+        {
+          "text": "experiência",
+          "start": 91.74,
+          "end": 92.22
+        },
+        {
+          "text": "pode",
+          "start": 92.3,
+          "end": 92.46
+        },
+        {
+          "text": "levar",
+          "start": 92.54,
+          "end": 92.78
+        },
+        {
+          "text": "sua",
+          "start": 92.86,
+          "end": 93.1
+        },
+        {
+          "text": "própria",
+          "start": 93.18,
+          "end": 93.42
+        },
+        {
+          "text": "marca.",
+          "start": 93.5,
+          "end": 94.1
+        },
+        {
+          "text": "Com",
+          "start": 94.3,
+          "end": 94.38
+        },
+        {
+          "text": "o",
+          "start": 94.42,
+          "end": 94.46
+        },
+        {
+          "text": "painel",
+          "start": 94.58,
+          "end": 94.78
+        },
+        {
+          "text": "configurado,",
+          "start": 94.94,
+          "end": 95.66
+        },
+        {
+          "text": "professores",
+          "start": 95.74,
+          "end": 96.22
+        },
+        {
+          "text": "podem",
+          "start": 96.3,
+          "end": 96.46
+        },
+        {
+          "text": "acompanhar",
+          "start": 96.58,
+          "end": 97.02
+        },
+        {
+          "text": "o",
+          "start": 97.06,
+          "end": 97.1
+        },
+        {
+          "text": "progresso",
+          "start": 97.34,
+          "end": 97.633
+        },
+        {
+          "text": "dos",
+          "start": 97.687,
+          "end": 97.74
+        },
+        {
+          "text": "alunos",
+          "start": 97.82,
+          "end": 98.14
+        },
+        {
+          "text": "nas",
+          "start": 98.22,
+          "end": 98.3
+        },
+        {
+          "text": "turmas.",
+          "start": 98.38,
+          "end": 99.1
+        },
+        {
+          "text": "Uma",
+          "start": 99.153,
+          "end": 99.26
+        },
+        {
+          "text": "conexão",
+          "start": 99.34,
+          "end": 99.82
+        },
+        {
+          "text": "entre",
+          "start": 99.9,
+          "end": 99.98
+        },
+        {
+          "text": "o",
+          "start": 100.02,
+          "end": 100.06
+        },
+        {
+          "text": "conteúdo",
+          "start": 100.14,
+          "end": 100.54
+        },
+        {
+          "text": "da",
+          "start": 100.62,
+          "end": 100.66
+        },
+        {
+          "text": "escola",
+          "start": 100.7,
+          "end": 101.18
+        },
+        {
+          "text": "e",
+          "start": 101.26,
+          "end": 101.34
+        },
+        {
+          "text": "a",
+          "start": 101.38,
+          "end": 101.42
+        },
+        {
+          "text": "rotina",
+          "start": 101.58,
+          "end": 101.9
+        },
+        {
+          "text": "de",
+          "start": 101.98,
+          "end": 102.06
+        },
+        {
+          "text": "quem",
+          "start": 102.1,
+          "end": 102.22
+        },
+        {
+          "text": "se",
+          "start": 102.3,
+          "end": 102.38
+        },
+        {
+          "text": "prepara",
+          "start": 102.5,
+          "end": 102.78
+        },
+        {
+          "text": "para",
+          "start": 102.86,
+          "end": 102.94
+        },
+        {
+          "text": "a",
+          "start": 102.967,
+          "end": 102.993
+        },
+        {
+          "text": "prova.",
+          "start": 103.02,
+          "end": 103.66
+        }
+      ]
+    },
+    {
+      "id": "07-conclusao",
+      "start": 3240,
+      "end": 3600,
+      "audioStart": 3249,
+      "audioDuration": 7.034833,
+      "text": "Marque uma conversa em caderna ponto i a ponto b r. Caderna. Dê o diferencial que seus alunos merecem.",
+      "words": [
+        {
+          "text": "Marque",
+          "start": 108.3,
+          "end": 108.62
+        },
+        {
+          "text": "uma",
+          "start": 108.7,
+          "end": 108.78
+        },
+        {
+          "text": "conversa",
+          "start": 108.9,
+          "end": 109.34
+        },
+        {
+          "text": "em",
+          "start": 109.38,
+          "end": 109.42
+        },
+        {
+          "text": "caderna",
+          "start": 109.5,
+          "end": 109.98
+        },
+        {
+          "text": "ponto",
+          "start": 110.02,
+          "end": 110.22
+        },
+        {
+          "text": "i",
+          "start": 110.46,
+          "end": 110.54
+        },
+        {
+          "text": "a",
+          "start": 110.62,
+          "end": 110.78
+        },
+        {
+          "text": "ponto",
+          "start": 110.86,
+          "end": 111.1
+        },
+        {
+          "text": "b",
+          "start": 111.18,
+          "end": 111.26
+        },
+        {
+          "text": "r.",
+          "start": 111.34,
+          "end": 111.98
+        },
+        {
+          "text": "Caderna.",
+          "start": 112.1,
+          "end": 112.94
+        },
+        {
+          "text": "Dê",
+          "start": 112.98,
+          "end": 113.1
+        },
+        {
+          "text": "o",
+          "start": 113.14,
+          "end": 113.18
+        },
+        {
+          "text": "diferencial",
+          "start": 113.22,
+          "end": 113.9
+        },
+        {
+          "text": "que",
+          "start": 113.94,
+          "end": 113.98
+        },
+        {
+          "text": "seus",
+          "start": 114.06,
+          "end": 114.22
+        },
+        {
+          "text": "alunos",
+          "start": 114.3,
+          "end": 114.62
+        },
+        {
+          "text": "merecem.",
+          "start": 114.78,
+          "end": 115.42
+        }
+      ]
+    }
+  ],
+  "captions": [
+    {
+      "text": "Saiu o edital.",
+      "start": 0.3,
+      "end": 1.5
+    },
+    {
+      "text": "E, de repente, a escola inteira tem um prazo.",
+      "start": 1.66,
+      "end": 4.22
+    },
+    {
+      "text": "Cada semana conta.",
+      "start": 4.54,
+      "end": 5.66
+    },
+    {
+      "text": "Conectar conteúdos, materiais e atividades",
+      "start": 5.98,
+      "end": 8.54
+    },
+    {
+      "text": "à rotina da turma é o desafio do seu preparatório.",
+      "start": 8.58,
+      "end": 11.74
+    },
+    {
+      "text": "A Caderna ajuda a organizar esse caminho.",
+      "start": 15.3,
+      "end": 18.02
+    },
+    {
+      "text": "Do programa da prova aos tópicos e a um plano de estudo.",
+      "start": 18.06,
+      "end": 21.46
+    },
+    {
+      "text": "Uma sequência para organizar a leitura,",
+      "start": 21.513,
+      "end": 23.62
+    },
+    {
+      "text": "a prática e a revisão, ao longo das semanas.",
+      "start": 23.673,
+      "end": 26.58
+    },
+    {
+      "text": "Dentro desse plano, cada tópico tem seu lugar.",
+      "start": 30.32,
+      "end": 33.16
+    },
+    {
+      "text": "As apostilas reúnem o material de leitura,",
+      "start": 33.2,
+      "end": 35.24
+    },
+    {
+      "text": "com seções e referências para consulta.",
+      "start": 35.32,
+      "end": 37.64
+    },
+    {
+      "text": "Assim, o aluno pode aprofundar",
+      "start": 37.72,
+      "end": 39.4
+    },
+    {
+      "text": "um assunto e depois retomar o percurso,",
+      "start": 39.48,
+      "end": 41.88
+    },
+    {
+      "text": "sem perder de vista o que está estudando.",
+      "start": 42.0,
+      "end": 44.04
+    },
+    {
+      "text": "E a leitura é só uma parte da experiência.",
+      "start": 50.313,
+      "end": 53.006
+    },
+    {
+      "text": "Na aula por voz, o aluno pode conversar",
+      "start": 53.046,
+      "end": 55.326
+    },
+    {
+      "text": "sobre o conteúdo e fazer perguntas.",
+      "start": 55.406,
+      "end": 57.486
+    },
+    {
+      "text": "O quadro branco acompanha a explicação, aproximando",
+      "start": 57.513,
+      "end": 60.206
+    },
+    {
+      "text": "a conversa daquilo que precisa ser compreendido.",
+      "start": 60.246,
+      "end": 62.926
+    },
+    {
+      "text": "Depois, é hora de colocar o conhecimento em prática.",
+      "start": 70.3,
+      "end": 73.58
+    },
+    {
+      "text": "Os quizzes retomam os assuntos estudados.",
+      "start": 73.66,
+      "end": 76.3
+    },
+    {
+      "text": "Na preparação para provas, os simulados",
+      "start": 76.34,
+      "end": 78.46
+    },
+    {
+      "text": "mostram o resultado por matéria.",
+      "start": 78.54,
+      "end": 80.433
+    },
+    {
+      "text": "Esse retorno pode orientar a revisão e a volta ao plano.",
+      "start": 80.487,
+      "end": 83.82
+    },
+    {
+      "text": "No seu preparatório, essa experiência",
+      "start": 90.3,
+      "end": 92.22
+    },
+    {
+      "text": "pode levar sua própria marca.",
+      "start": 92.3,
+      "end": 94.1
+    },
+    {
+      "text": "Com o painel configurado, professores",
+      "start": 94.3,
+      "end": 96.22
+    },
+    {
+      "text": "podem acompanhar o progresso dos alunos nas turmas.",
+      "start": 96.3,
+      "end": 99.1
+    },
+    {
+      "text": "Uma conexão entre o conteúdo da escola",
+      "start": 99.153,
+      "end": 101.18
+    },
+    {
+      "text": "e a rotina de quem se prepara para a prova.",
+      "start": 101.26,
+      "end": 103.66
+    },
+    {
+      "text": "Marque uma conversa em caderna.ia.br.",
+      "start": 108.3,
+      "end": 111.98
+    },
+    {
+      "text": "Caderna.",
+      "start": 112.1,
+      "end": 112.94
+    },
+    {
+      "text": "Dê o diferencial que seus alunos merecem.",
+      "start": 112.98,
+      "end": 115.42
+    }
+  ]
+}

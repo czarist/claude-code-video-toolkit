@@ -1076,6 +1076,8 @@ Keep these separate. Don't mix toolkit improvements with video production.
 
 ## Documentation
 
+- [Método de produção editorial de vídeo](docs/video-production-playbook.pt-BR.md): workflow reproduzível de roteiro, voz, sincronização, animação, mixagem, formatos e QC, com [referência de código](docs/reference/editorial-motion/README.md) para adaptar conteúdo ou linguagem visual.
+
 - `docs/getting-started.md` - First video walkthrough
 - `docs/creating-templates.md` - Build new templates
 - `docs/creating-brands.md` - Create brand profiles

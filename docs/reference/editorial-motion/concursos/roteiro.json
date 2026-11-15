@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01-problema",
+    "budget": 15,
+    "text": "Saiu o edital. E, de repente, a escola inteira tem um prazo. Cada semana conta. Conectar conteúdos, materiais e atividades à rotina da turma é o desafio do seu preparatório."
+  },
+  {
+    "id": "02-organizacao",
+    "budget": 15,
+    "text": "A Caderna ajuda a organizar esse caminho. Do programa da prova aos tópicos e a um plano de estudo. Uma sequência para organizar a leitura, a prática e a revisão, ao longo das semanas."
+  },
+  {
+    "id": "03-material",
+    "budget": 20,
+    "text": "Dentro desse plano, cada tópico tem seu lugar. As apostilas reúnem o material de leitura, com seções e referências para consulta. Assim, o aluno pode aprofundar um assunto e depois retomar o percurso, sem perder de vista o que está estudando."
+  },
+  {
+    "id": "04-estudo",
+    "budget": 20,
+    "text": "E a leitura é só uma parte da experiência. Na aula por voz, o aluno pode conversar sobre o conteúdo e fazer perguntas. O quadro branco acompanha a explicação, aproximando a conversa daquilo que precisa ser compreendido."
+  },
+  {
+    "id": "05-pratica",
+    "budget": 20,
+    "text": "Depois, é hora de colocar o conhecimento em prática. Os quizzes retomam os assuntos estudados. Na preparação para provas, os simulados mostram o resultado por matéria. Esse retorno pode orientar a revisão e a volta ao plano."
+  },
+  {
+    "id": "06-instituicao",
+    "budget": 18,
+    "text": "No seu preparatório, essa experiência pode levar sua própria marca. Com o painel configurado, professores podem acompanhar o progresso dos alunos nas turmas. Uma conexão entre o conteúdo da escola e a rotina de quem se prepara para a prova."
+  },
+  {
+    "id": "07-conclusao",
+    "budget": 12,
+    "text": "Marque uma conversa em caderna ponto i a ponto b r. Caderna. Dê o diferencial que seus alunos merecem."
+  }
+]
