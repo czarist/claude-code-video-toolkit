@@ -317,7 +317,7 @@ def main():
         print(f"Error: scene-dir not found: {scene_dir}", file=sys.stderr)
         sys.exit(1)
 
-    config_text = config_path.read_text()
+    config_text = config_path.read_text(encoding="utf-8")
     scenes = parse_scenes(config_text)
     if not scenes:
         print("No captioned scenes found in config", file=sys.stderr)

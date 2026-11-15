@@ -369,7 +369,7 @@ def warn_copy(script: str, where: str) -> None:
 def read_script(script_path: str | None) -> str:
     """Read script from file or stdin."""
     if script_path:
-        with open(script_path) as f:
+        with open(script_path, encoding="utf-8") as f:
             return f.read().strip()
     else:
         if sys.stdin.isatty():
@@ -802,7 +802,7 @@ def process_scene_directory(
     scenes = []
     for txt_file in txt_files:
         mp3_file = txt_file.with_suffix(".mp3")
-        script = txt_file.read_text().strip()
+        script = txt_file.read_text(encoding="utf-8").strip()
         warn_copy(script, txt_file.name)
 
         if not script:
@@ -1122,6 +1122,18 @@ def main():
             # Apply voice ID from brand if not explicitly provided
             if not args.voice_id and voice_config.get("voiceId") and voice_config["voiceId"] != "YOUR_VOICE_ID_HERE":
                 args.voice_id = voice_config["voiceId"]
+            # Brand model and settings fill in only when the CLI left a default in place.
+            el_settings = voice_config.get("settings", {})
+            if voice_config.get("model") and args.model == "eleven_multilingual_v2":
+                args.model = voice_config["model"]
+            if "stability" in el_settings and args.stability == 0.85:
+                args.stability = el_settings["stability"]
+            if "similarityBoost" in el_settings and args.similarity == 0.95:
+                args.similarity = el_settings["similarityBoost"]
+            if "style" in el_settings and args.style == 0.0:
+                args.style = el_settings["style"]
+            if "speed" in el_settings and args.speed == 1.0:
+                args.speed = el_settings["speed"]
         elif provider == "60db":
             # Apply 60db voice ID + settings from the brand's `sixtydb` block
             sixtydb_cfg = voice_config.get("sixtydb", {})

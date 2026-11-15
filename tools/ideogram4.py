@@ -116,7 +116,7 @@ def load_brand_palette(brand_name: str) -> list[str]:
         log(f"Brand not found: {brand_path}", "warn")
         return []
     try:
-        brand = json.loads(brand_path.read_text())
+        brand = json.loads(brand_path.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, OSError) as e:
         log(f"Error reading brand: {e}", "warn")
         return []
@@ -132,7 +132,7 @@ def load_brand_palette(brand_name: str) -> list[str]:
 
 def read_caption(source: str) -> dict:
     """Read a JSON caption from a file path or '-' for stdin. Returns the parsed object."""
-    raw = sys.stdin.read() if source == "-" else Path(source).read_text()
+    raw = sys.stdin.read() if source == "-" else Path(source).read_text(encoding="utf-8")
     caption = json.loads(raw)
     if not isinstance(caption, dict):
         raise ValueError("JSON caption must be an object (got a non-object top level)")

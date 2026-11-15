@@ -1,0 +1,16 @@
+{
+  "voiceId": "YOUR_VOICE_ID_HERE",
+  "description": "Caderna, pt-BR. O ID real vem de ELEVENLABS_VOICE_ID no .env; não gravar aqui.",
+  "model": "eleven_multilingual_v2",
+  "settings": {
+    "stability": 0.55,
+    "similarityBoost": 0.85,
+    "style": 0.2,
+    "speed": 0.85,
+    "useSpeakerBoost": true
+  },
+  "pacing": {
+    "targetWpm": "140-160",
+    "maxWpm": 165
+  }
+}

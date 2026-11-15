@@ -54,7 +54,7 @@ def main() -> int:
     stretched = 0
     for ph in phrases:
         txt = next((t / f"{ph}.txt" for t in takes if (t / f"{ph}.txt").exists()), None)
-        text = txt.read_text().strip() if txt else ""
+        text = txt.read_text(encoding="utf-8").strip() if txt else ""
         words = len(text.split())
         cands = []
         for t in takes:

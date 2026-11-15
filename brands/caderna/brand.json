@@ -1,0 +1,5 @@
+{
+  "name": "Caderna",
+  "colors": {"primary": "#52613C", "secondary": "#D7BB8A", "accent": "#B5C79A", "background": "#F6F4EF", "backgroundDark": "#1C1F17", "text": "#1C1F17", "textLight": "#F6F4EF"},
+  "fonts": {"primary": "Instrument Sans", "heading": "Lora"}
+}

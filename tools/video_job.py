@@ -1575,7 +1575,8 @@ def create_project(job: dict, spec: dict) -> Path:
         # no bed asked for: drop the file key, or qc.py warns "audio/music.mp3 not found" and
         # the agent passes on a problem that isn't one
         config["music"]["file"] = None
-    config["timing"] = {**config.get("timing", {}), "startPad": 0.0}   # frame 0 is the cover
+    # frame 0 is the cover; spec.timing (lead/tail/xfade seconds) tightens or loosens the gap between scenes
+    config["timing"] = {**config.get("timing", {}), **(spec.get("timing") or {}), "startPad": 0.0}
     # veryfast: a quarter of medium's CPU on small hosts at the same look for this content;
     # maxMB keeps the file attachable (Discord's bot limit is 10 MB)
     config["encode"] = {"preset": "veryfast", "maxMB": max_mb(spec)}
@@ -2164,7 +2165,8 @@ def spawn_worker(job_id: str) -> int:
         kwargs["creationflags"] = subprocess.DETACHED_PROCESS | subprocess.CREATE_NEW_PROCESS_GROUP
     else:
         kwargs["start_new_session"] = True
-    env = {**os.environ, "PYTHONUNBUFFERED": "1"}
+    # PYTHONIOENCODING: the tools print box-drawing and accented text; a cp1252 console (Windows) crashes on it
+    env = {**os.environ, "PYTHONUNBUFFERED": "1", "PYTHONIOENCODING": "utf-8"}
     try:
         p = subprocess.Popen([sys.executable, str(Path(__file__).resolve()), "_worker", job_id], env=env, **kwargs)
     finally:
